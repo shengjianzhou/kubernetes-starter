@@ -17,5 +17,5 @@
   [1]: https://github.com/shengjianzhou/kubernetes-starter/blob/master/docs/1-pre.md
   [2]: https://github.com/shengjianzhou/kubernetes-starter/blob/master/docs/2-kubernetes-simple.md
   [3]: https://github.com/shengjianzhou/kubernetes-starter/blob/master/docs/3-kubernetes-with-ca.md
-  [4]: https://github.com/shengjianzhou/kubernetes-starter/blob/master/docs/3-kubernetes-with-ca.md
+  [4]: https://github.com/shengjianzhou/kubernetes-starter/blob/master/docs/4-microservice-deploy.md
   [5]: https://coding.imooc.com/class/198.html
